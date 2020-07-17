@@ -1,4 +1,5 @@
-# This is a repository of configuration, setup, and installation files as well as directions.  The main purpose of this repo is to capture those tidbits of knowledge where being an expert is not the primary goal, but rather usability and an emphasis on re-usability.  One main objective is to also enable scriptability so proper and methodical structure will be of utmost importance.
+# ConfigSetup
+> This is a repository of configuration, setup, and installation files as well as directions.  The main purpose of this repo is to capture those tidbits of knowledge where being an expert is not the primary goal, but rather usability and an emphasis on re-usability.  One main objective is to also enable scriptability so proper and methodical structure will be of utmost importance.
 
 ## Android
 ### TODO
