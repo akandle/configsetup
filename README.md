@@ -80,3 +80,15 @@ cd termux-omz
 chmod +x setup
 ./setup
 ```
+
+## Git Setup
+
+### HTTPS Credential caching
+> Activate the credential cache
+```
+git config --global credential.helper cache
+```
+> Change the default password cache timeout, setting is in seconds (1 hour in example)
+```
+git config --global credential.helper 'cache --timeout=3600'
+```
