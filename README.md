@@ -5,7 +5,6 @@
  - Make this a script
  - Compartmentalize each action and then build into a single script
  - Testing will be hard to accomplish unless each dependant project does testing somehow
-
 ### base installation
 ```
 pkg update
