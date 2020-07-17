@@ -6,6 +6,7 @@
  - Make this a script
  - Compartmentalize each action and then build into a single script
  - Testing will be hard to accomplish unless each dependant project does testing somehow
+ - Round up all dotfiles.  There is an untracked my_configs.vim on the tablet.  Need to somehow control versioning and centralize the source so all devices using a particular platform, such as termux, have identical configs and can make and push changes as well
 ### base installation
 ```
 pkg update
