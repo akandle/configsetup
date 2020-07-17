@@ -23,6 +23,11 @@
 - Ctrl-up/down/left/right - resize by 1 unit
 - { or } - move pane left or right
 - up/down/left/right arrows - move to pane in direction
+- in command line:
+    - tmux set -g pane-border-status top or bottom
+    - tmux set -g pane-border-format "#{pane_index}, #{pane_title}, #{pane_current_command}"
+    - tmux select-pane -T title - just current pane of current window
+    - tmux select-pane -t # -T name - change pane # title to name in current window
 - [ - enter copy mode
     - followed by
         - q - quit
