@@ -92,3 +92,5 @@ git config --global credential.helper cache
 ```
 git config --global credential.helper 'cache --timeout=3600'
 ```
+
+> Quick change to test credential cache
