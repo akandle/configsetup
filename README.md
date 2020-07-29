@@ -93,3 +93,6 @@ git config --global credential.helper cache
 ```
 git config --global credential.helper 'cache --timeout=3600'
 ```
+## Desktop - Ubuntu
+### Oh My ZSH
+```sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" ```
