@@ -58,3 +58,13 @@
     tmux kill-session -t mysession
   ```
 - C-b $ - Rename session
+
+- These are to script a certain opening sequence
+tmux new-window -c ~
+tmux split-window -h -c /tmp
+tmux split-window -v -c /
+tmux select-pane -t 1
+tmux split-window -v -c /home
+tmux select-pane -t 1
+
+

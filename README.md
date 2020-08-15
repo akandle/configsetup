@@ -65,6 +65,7 @@ psql myDB
 ```
 
 ### Oh My TMUX
+- I wonder how useful this really is. DO NOT put the git repo in the home directory
 ```
 cd ~/gh
 git clone https://github.com/gpakosz/.tmux.git
