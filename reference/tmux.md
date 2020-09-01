@@ -3,6 +3,7 @@
 ## Setup
 > Uses Oh My Tmux
 ## Basic Uses
+- C-b :attach-session -t . -c /new/working/directory changes tmux working directory while in session 
 - Control-b is command
 - C-b w - lists windows
 - l - last window
